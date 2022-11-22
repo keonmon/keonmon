@@ -1,5 +1,5 @@
-## Hi, there 👋 개발자 이건희입니다.
-
+### Hi, there 👋 개발자 이건희입니다.
+---
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -12,20 +12,24 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-#### Introduce my self (Portfolio)
-* https://keonmon.github.io/
+### Introduce my self (Portfolio)
+https://keonmon.github.io/
+
+### Project Repo
+- [Ogam Project](https://github.com/keonmon/Ogam_Project)
+- [MealZo Project](https://github.com/keonmon/MealZo_final)
 
 
-#### Blog
-* https://montoo.tistory.com/
+### Blog
+https://montoo.tistory.com/
 
 
-#### Email
-* montoo@kakao.com
+### Email
+montoo@kakao.com
 
 
-#### ⚡TIL⚡
-- [TIL Challenge (repo)](https://github.com/keonmon/TIL)
+### ⚡TIL⚡
+[TIL Challenge (repo)](https://github.com/keonmon/TIL)
 
 <br/>
 
